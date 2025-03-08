@@ -77,7 +77,7 @@ KARMA_WARN_PENALTY = 10
 
 # Spam limits
 SPAM_LIMIT = 3
-SPAM_LIMIT_HIT = 6
+SPAM_LIMIT_HIT = 69
 SPAM_INTERVAL_SECONDS = 5
 
 # Spam score calculation
